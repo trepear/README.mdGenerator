@@ -48,7 +48,7 @@ const questions = [
         {
             type: "input",
             message: "Enter any test instructions here.",
-            name: "test"
+            name: "tests"
         },
         {
             type: "input",
